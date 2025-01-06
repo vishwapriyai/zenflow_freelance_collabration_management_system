@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/zenflow.git
+    git clone [https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system.git]
     cd zenflow
     ```
 
