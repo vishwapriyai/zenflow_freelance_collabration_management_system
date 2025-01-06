@@ -85,10 +85,13 @@ To access protected API endpoints, you need to authenticate using a token. Obtai
 ```bash
 curl -X POST -d "username=<your_username>&password=<your_password>" http://127.0.0.1:8000/api-token-auth/
 
-![image](https://github.com/user-attachments/assets/0a7bc8ee-f877-4715-8b87-15848e6fb8be)
-![image](https://github.com/user-attachments/assets/980b53b4-91dd-4bc7-9824-9393a2b8e0fb)
-![image](https://github.com/user-attachments/assets/3cffd497-df76-41b6-860d-4cf4d5fec9ac)
-![image](https://github.com/user-attachments/assets/31bbd9c0-b80a-4453-a4f8-6e1f9aff6f86)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123410.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123428.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123441.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20125117.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123447.png)
+
+
 
 
 
