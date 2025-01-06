@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system.git
+    git clone [https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system.git
     cd zenflow
     ```
 
@@ -78,11 +78,11 @@ Visit `http://127.0.0.1:8000/` in your browser to see the application running.
 
 The home page provides an overview of the system and links to different sections like Users, Projects, Tasks, and Invoices.
 
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123410.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123428.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123441.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20125117.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123447.png)
+![image](https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123410.png)
+![image](https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123428.png)
+![image](https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123441.png)
+![image](https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20125117.png)
+![image](https://github.com/vishwapriyai/zenflow_freelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123447.png)
 
 ### API Authentication
 
