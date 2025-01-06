@@ -78,6 +78,12 @@ Visit `http://127.0.0.1:8000/` in your browser to see the application running.
 
 The home page provides an overview of the system and links to different sections like Users, Projects, Tasks, and Invoices.
 
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123410.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123428.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123441.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20125117.png)
+![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123447.png)
+
 ### API Authentication
 
 To access protected API endpoints, you need to authenticate using a token. Obtain a token by sending a POST request to the `api-token-auth/` endpoint with your username and password.
@@ -85,11 +91,7 @@ To access protected API endpoints, you need to authenticate using a token. Obtai
 ```bash
 curl -X POST -d "username=<your_username>&password=<your_password>" http://127.0.0.1:8000/api-token-auth/
 
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123410.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123428.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123441.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20125117.png)
-![image](https://github.com/vishwapriyai/zenflow_frelance_collabration_management_system/blob/main/zenflow_platform_overview/Screenshot%202025-01-06%20123447.png)
+
 
 
 
